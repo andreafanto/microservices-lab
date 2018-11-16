@@ -13,4 +13,4 @@ spring:
     validationQuery: SELECT 1
 
 server:
-  port: 9000
+  port: 7000
